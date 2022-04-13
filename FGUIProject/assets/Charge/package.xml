@@ -11,6 +11,10 @@
     <image id="pcto7" name="gold9.png" path="/images/" exported="true"/>
     <component id="pcto9" name="charge.xml" path="/" exported="true"/>
     <component id="pctoa" name="charge_item.xml" path="/"/>
+    <image id="szj6b" name="gold4.png" path="/images/" exported="true"/>
+    <image id="szj6c" name="gold5.png" path="/images/" exported="true"/>
+    <image id="szj6d" name="gold6.png" path="/images/" exported="true"/>
+    <image id="szj6e" name="gold7.png" path="/images/" exported="true"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>

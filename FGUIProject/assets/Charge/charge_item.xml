@@ -2,8 +2,8 @@
 <component size="200,255" extention="Button">
   <displayList>
     <image id="n0_pcto" name="n0" src="pcto1" fileName="images/charge_box.png" xy="0,0"/>
-    <loader id="n1_pcto" name="load_icon" xy="22,48" size="156,159" touchable="false" url="ui://cfw84oa2pcto2" autoSize="true"/>
-    <component id="n2_pcto" name="btn_buy" src="pctob" fileName="btn_buy.xml" xy="12,174" pkg="cx5zh13d">
+    <loader id="n1_pcto" name="load_icon" xy="42,64" pivot="0.5,0.5" size="115,113" touchable="false" url="ui://cfw84oa2pcto2" autoSize="true"/>
+    <component id="n2_pcto" name="btn_buy" src="pctob" fileName="btn_buy.xml" pkg="cx5zh13d" xy="12,174">
       <Button title="￥6" titleFontSize="30"/>
     </component>
     <text id="n3_pcto" name="lab_count" xy="84,9" pivot="0.5,0" size="32,34" fontSize="24" align="center" text="60"/>
