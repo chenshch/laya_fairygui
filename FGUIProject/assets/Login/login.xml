@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_pcto" name="n0" src="pcto0" fileName="images/login_bg.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_pcto" name="n1" src="pcto2" fileName="images/role.png" xy="23,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n2_pcto" name="btn_login" src="pcto4" fileName="btn_login.xml" xy="439,532">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

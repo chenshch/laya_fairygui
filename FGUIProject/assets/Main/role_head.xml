@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="313,143">
+  <displayList>
+    <image id="n0_wvto" name="n0" src="wvto5" fileName="images/hp_bg.png" xy="0,0"/>
+    <component id="n2_wvto" name="n1" src="wvtop" fileName="hp_bar.xml" xy="95,83">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

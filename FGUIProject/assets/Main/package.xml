@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="23p91tnx">
+  <resources>
+    <image id="wvto2" name="double_btn.png" path="/images/"/>
+    <image id="wvto3" name="equip_btn.png" path="/images/"/>
+    <image id="wvto4" name="hp_bar.png" path="/images/"/>
+    <image id="wvto5" name="hp_bg.png" path="/images/"/>
+    <image id="wvto6" name="main_bg.png" path="/images/"/>
+    <image id="wvto7" name="make_btn.png" path="/images/"/>
+    <image id="wvto8" name="map_btn.png" path="/images/"/>
+    <image id="wvto9" name="market_btn.png" path="/images/"/>
+    <image id="wvtoa" name="mission_btn.png" path="/images/"/>
+    <image id="wvtob" name="sign_btn.png" path="/images/"/>
+    <image id="wvtoc" name="skill_btn.png" path="/images/"/>
+    <component id="wvtod" name="main.xml" path="/" exported="true"/>
+    <component id="wvtof" name="double_btn.xml" path="/"/>
+    <component id="wvtog" name="equip_btn.xml" path="/"/>
+    <component id="wvtoh" name="make_btn.xml" path="/"/>
+    <component id="wvtoi" name="market_btn.xml" path="/"/>
+    <component id="wvtoj" name="map_btn.xml" path="/"/>
+    <component id="wvtok" name="mission_btn.xml" path="/"/>
+    <component id="wvtol" name="sign_btn.xml" path="/"/>
+    <component id="wvtom" name="skill_btn.xml" path="/"/>
+    <component id="wvton" name="role_head.xml" path="/"/>
+    <component id="wvtop" name="hp_bar.xml" path="/"/>
+    <image id="wvtoq" name="charge_btn.png" path="/images/"/>
+    <component id="wvtor" name="charge_btn.xml" path="/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

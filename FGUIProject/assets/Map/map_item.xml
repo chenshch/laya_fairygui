@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,149">
+  <displayList>
+    <image id="n0_wvto" name="n0" src="wvto4" fileName="images/now_chapter.png" xy="0,0"/>
+    <loader id="n1_wvto" name="star1" xy="17,113" size="34,36" url="ui://2hpj09q8wvto6" autoSize="true"/>
+    <loader id="n2_wvto" name="star2" xy="55,113" size="34,36" url="ui://2hpj09q8wvto1" autoSize="true"/>
+    <loader id="n3_wvto" name="star3" xy="94,111" size="34,36" url="ui://2hpj09q8wvto1" autoSize="true"/>
+    <text id="n4_wvto" name="lab_pass" xy="68,43" pivot="0.5,0" size="18,34" fontSize="24" align="center" strokeColor="#66ffff" text="1"/>
+  </displayList>
+</component>

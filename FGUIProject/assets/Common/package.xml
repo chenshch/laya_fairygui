@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cx5zh13d">
+  <resources>
+    <image id="pcto0" name="close_btn.png" path="/images/" exported="true"/>
+    <component id="pcto1" name="btn_close.xml" path="/" exported="true"/>
+    <image id="wvto0" name="add.png" path="/images/" exported="true"/>
+    <component id="wvto2" name="btn_add.xml" path="/" exported="true"/>
+    <component id="wvto3" name="toast.xml" path="/" exported="true"/>
+    <image id="wvto4" name="img_tips_bg.png" path="/images/"/>
+    <image id="wvto1" name="coin_bg.png" path="/images/" exported="true"/>
+    <component id="wvtos" name="money.xml" path="/" exported="true"/>
+    <image id="pctod" name="gold_icon_small.png" path="/images/" exported="true"/>
+    <image id="wvtoc" name="skill_1.png" path="/images/" exported="true"/>
+    <image id="wvtod" name="skill_2.png" path="/images/" exported="true"/>
+    <image id="wvtoe" name="skill_3.png" path="/images/" exported="true"/>
+    <image id="wvtog" name="skill_4.png" path="/images/" exported="true"/>
+    <image id="pcto8" name="numer_box.png" path="/images/"/>
+    <component id="pctob" name="btn_buy.xml" path="/" exported="true"/>
+    <image id="pctoe" name="gold_icon.png" path="/images/" exported="true"/>
+    <image id="ibpnx" name="num0.png" path="/nums/"/>
+    <image id="ibpny" name="num1.png" path="/nums/"/>
+    <image id="ibpnz" name="num2.png" path="/nums/"/>
+    <image id="ibpn10" name="num3.png" path="/nums/"/>
+    <image id="ibpn11" name="num4.png" path="/nums/"/>
+    <image id="ibpn12" name="num5.png" path="/nums/"/>
+    <image id="ibpn13" name="num6.png" path="/nums/"/>
+    <image id="ibpn14" name="num7.png" path="/nums/"/>
+    <image id="ibpn15" name="num8.png" path="/nums/"/>
+    <image id="ibpn16" name="num9.png" path="/nums/"/>
+    <font id="ibpn17" name="hit_font.fnt" path="/" exported="true"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

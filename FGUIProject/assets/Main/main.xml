@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_wvto" name="n0" src="wvto6" fileName="images/main_bg.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_wvto" name="n1" src="wvton" fileName="role_head.xml" xy="0,4">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n2_wvto" name="btn_market" src="wvtoi" fileName="market_btn.xml" xy="138,270">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n3_wvto" name="btn_skill" src="wvtom" fileName="skill_btn.xml" xy="308,160">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n4_wvto" name="btn_task" src="wvtok" fileName="mission_btn.xml" xy="519,159">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n7_wvto" name="btn_sign" src="wvtol" fileName="sign_btn.xml" xy="730,167">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n8_wvto" name="btn_charge" src="wvtor" fileName="charge_btn.xml" xy="1075,268">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n9_wvto" name="btn_make" src="wvtoh" fileName="make_btn.xml" xy="888,228">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n10_wvto" name="btn_equip" src="wvtog" fileName="equip_btn.xml" xy="344,391">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n11_wvto" name="btn_double" src="wvtof" fileName="double_btn.xml" xy="598,390">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n12_wvto" name="btn_map" src="wvtoj" fileName="map_btn.xml" xy="874,429">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n14_wvto" name="money" src="wvtos" fileName="money.xml" xy="1052,45" pkg="cx5zh13d">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1" autoPlayDelay=".5">
+    <item time="0" type="XY" target="n10_wvto" tween="true" startValue="344.5,391.5" endValue="344.5,381" duration="6"/>
+    <item time="0" type="XY" target="n11_wvto" tween="true" startValue="598.5,390.5" endValue="598.5,400" duration="6"/>
+    <item time="0" type="XY" target="n12_wvto" tween="true" startValue="874.5,429.5" endValue="874.5,419" duration="6"/>
+    <item time="0" type="XY" target="n2_wvto" tween="true" startValue="138.5,270.5" endValue="138.5,260" duration="6"/>
+    <item time="0" type="XY" target="n3_wvto" tween="true" startValue="308.5,160.5" endValue="308.5,150" duration="6"/>
+    <item time="0" type="XY" target="n4_wvto" tween="true" startValue="519.5,159.5" endValue="519.5,149" duration="6"/>
+    <item time="0" type="XY" target="n7_wvto" tween="true" startValue="730.5,167.5" endValue="730.5,157" duration="6"/>
+    <item time="0" type="XY" target="n8_wvto" tween="true" startValue="1075.5,268.5" endValue="1075.5,258" duration="6"/>
+    <item time="0" type="XY" target="n9_wvto" tween="true" startValue="888.5,228.5" endValue="888.5,218" duration="6"/>
+    <item time="6" type="XY" target="n10_wvto" tween="true" startValue="344.5,381" endValue="344.5,391.5" duration="6"/>
+    <item time="6" type="XY" target="n11_wvto" tween="true" startValue="598.5,400" endValue="598.5,390" duration="6"/>
+    <item time="6" type="XY" target="n12_wvto" tween="true" startValue="874.5,419" endValue="874.5,429.5" duration="6"/>
+    <item time="6" type="XY" target="n2_wvto" tween="true" startValue="138.5,260" endValue="138.5,270.5" duration="6"/>
+    <item time="6" type="XY" target="n3_wvto" tween="true" startValue="308.5,150" endValue="308.5,160.5" duration="6"/>
+    <item time="6" type="XY" target="n4_wvto" tween="true" startValue="519.5,149" endValue="519.5,159.5" duration="6"/>
+    <item time="6" type="XY" target="n7_wvto" tween="true" startValue="730.5,157" endValue="730.5,167.5" duration="6"/>
+    <item time="6" type="XY" target="n8_wvto" tween="true" startValue="1075.5,258" endValue="1075.5,268.5" duration="6"/>
+    <item time="6" type="XY" target="n9_wvto" tween="true" startValue="888.5,218" endValue="888.5,228.5" duration="6"/>
+    <item time="12" type="XY" target="n10_wvto" tween="true" startValue="344.5,391.5" endValue="344.5,401" duration="6"/>
+    <item time="12" type="XY" target="n11_wvto" tween="true" startValue="598.5,390" endValue="598.5,380" duration="6"/>
+    <item time="12" type="XY" target="n12_wvto" tween="true" startValue="874.5,429.5" endValue="874.5,439" duration="6"/>
+    <item time="12" type="XY" target="n2_wvto" tween="true" startValue="138.5,270.5" endValue="138.5,280" duration="6"/>
+    <item time="12" type="XY" target="n3_wvto" tween="true" startValue="308.5,160.5" endValue="308.5,170" duration="6"/>
+    <item time="12" type="XY" target="n4_wvto" tween="true" startValue="519.5,159.5" endValue="519.5,169" duration="6"/>
+    <item time="12" type="XY" target="n7_wvto" tween="true" startValue="730.5,167.5" endValue="730.5,177" duration="6"/>
+    <item time="12" type="XY" target="n8_wvto" tween="true" startValue="1075.5,268.5" endValue="1075.5,278" duration="6"/>
+    <item time="12" type="XY" target="n9_wvto" tween="true" startValue="888.5,228.5" endValue="888.5,238" duration="6"/>
+    <item time="18" type="XY" target="n10_wvto" tween="true" startValue="344.5,401" endValue="344.5,391" duration="6"/>
+    <item time="18" type="XY" target="n11_wvto" tween="true" startValue="598.5,380" endValue="598.5,390" duration="6"/>
+    <item time="18" type="XY" target="n12_wvto" tween="true" startValue="874.5,439" endValue="874.5,429" duration="6"/>
+    <item time="18" type="XY" target="n2_wvto" tween="true" startValue="138.5,280" endValue="138.5,270" duration="6"/>
+    <item time="18" type="XY" target="n3_wvto" tween="true" startValue="308.5,170" endValue="308.5,160" duration="6"/>
+    <item time="18" type="XY" target="n4_wvto" tween="true" startValue="519.5,169" endValue="519.5,159" duration="6"/>
+    <item time="18" type="XY" target="n7_wvto" tween="true" startValue="730.5,177" endValue="730.5,167" duration="6"/>
+    <item time="18" type="XY" target="n8_wvto" tween="true" startValue="1075.5,278" endValue="1075.5,268" duration="6"/>
+    <item time="18" type="XY" target="n9_wvto" tween="true" startValue="888.5,238" endValue="888.5,228" duration="6"/>
+    <item time="24" type="XY" target="n11_wvto" value="598.5,390"/>
+  </transition>
+</component>

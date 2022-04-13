@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_wvto" name="n0" src="wvto2" fileName="images/chapter_bg.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_wvto" name="n1" src="wvto5" fileName="images/path.png" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n3_wvto" name="n3" src="wvto3" fileName="images/cloud.png" xy="-68,-162" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n4_wvto" name="n4" src="wvto3" fileName="images/cloud.png" xy="-68,-162" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n5_wvto" name="btn_back" src="wvto9" fileName="btn_back.xml" xy="13,21">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n6_wvto" name="map0" src="wvto8" fileName="map_item.xml" xy="826,587">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n7_wvto" name="map1" src="wvto8" fileName="map_item.xml" xy="702,544">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n8_wvto" name="map2" src="wvto8" fileName="map_item.xml" xy="568,481">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n9_wvto" name="map3" src="wvto8" fileName="map_item.xml" xy="452,399">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n10_wvto" name="map4" src="wvto8" fileName="map_item.xml" xy="316,304">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n11_wvto" name="map5" src="wvto8" fileName="map_item.xml" xy="387,179">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n12_wvto" name="map6" src="wvto8" fileName="map_item.xml" xy="507,116">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n13_wvto" name="map7" src="wvto8" fileName="map_item.xml" xy="649,45">
+      <relation target="n1_wvto" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayDelay=".5">
+    <item time="0" type="Visible" target="n3_wvto" value="false"/>
+    <item time="0" type="Visible" target="n4_wvto" value="false"/>
+    <item time="0" type="XY" target="n3_wvto" value="-68,-162"/>
+    <item time="0" type="XY" target="n4_wvto" value="-68,-162"/>
+    <item time="2" type="Visible" target="n3_wvto" value="true"/>
+    <item time="2" type="Visible" target="n4_wvto" value="true"/>
+    <item time="2" type="XY" target="n3_wvto" tween="true" startValue="-68,-162" endValue="-1366,-162" duration="22"/>
+    <item time="2" type="XY" target="n4_wvto" tween="true" startValue="-68,-162" endValue="1280,-162" duration="22"/>
+    <item time="24" type="Visible" target="n3_wvto" value="false"/>
+    <item time="24" type="Visible" target="n4_wvto" value="false"/>
+  </transition>
+</component>

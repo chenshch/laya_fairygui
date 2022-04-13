@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="172,51">
+  <displayList>
+    <image id="n0_wvto" name="n0" src="wvto1" fileName="images/coin_bg.png" xy="0,0"/>
+    <component id="n1_wvto" name="btn_add_diamon" src="wvto2" fileName="btn_add.xml" xy="130,-11"/>
+    <text id="n2_wvto" name="lab_money" xy="56,11" size="56,32" fontSize="22" text="1000"/>
+  </displayList>
+</component>

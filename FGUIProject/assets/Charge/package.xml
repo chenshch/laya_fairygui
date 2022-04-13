@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cfw84oa2">
+  <resources>
+    <image id="pcto0" name="charge_bg.png" path="/images/" scale9grid="0,0,-233,-63"/>
+    <image id="pcto1" name="charge_box.png" path="/images/"/>
+    <image id="pcto2" name="gold1.png" path="/images/" exported="true"/>
+    <image id="pcto3" name="gold10.png" path="/images/" exported="true"/>
+    <image id="pcto4" name="gold2.png" path="/images/" exported="true"/>
+    <image id="pcto5" name="gold3.png" path="/images/" exported="true"/>
+    <image id="pcto6" name="gold8.png" path="/images/" exported="true"/>
+    <image id="pcto7" name="gold9.png" path="/images/" exported="true"/>
+    <component id="pcto9" name="charge.xml" path="/" exported="true"/>
+    <component id="pctoa" name="charge_item.xml" path="/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

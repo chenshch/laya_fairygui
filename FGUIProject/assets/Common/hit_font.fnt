@@ -1,0 +1,11 @@
+info size=36 resizable=true colored=false
+char id=48 img=ibpnx xoffset=0 yoffset=0 xadvance=0
+char id=49 img=ibpny xoffset=0 yoffset=0 xadvance=0
+char id=50 img=ibpnz xoffset=0 yoffset=0 xadvance=0
+char id=51 img=ibpn10 xoffset=0 yoffset=0 xadvance=0
+char id=52 img=ibpn11 xoffset=0 yoffset=0 xadvance=0
+char id=53 img=ibpn12 xoffset=0 yoffset=0 xadvance=0
+char id=54 img=ibpn13 xoffset=0 yoffset=0 xadvance=0
+char id=55 img=ibpn14 xoffset=0 yoffset=0 xadvance=0
+char id=56 img=ibpn15 xoffset=0 yoffset=0 xadvance=0
+char id=57 img=ibpn16 xoffset=0 yoffset=0 xadvance=0

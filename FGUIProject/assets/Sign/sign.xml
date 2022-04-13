@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="618,568">
+  <displayList>
+    <image id="n0_wvto" name="n0" src="wvto2" fileName="images/sign_bg.png" xy="0,0"/>
+    <component id="n1_wvto" name="btn_sign" src="wvto4" fileName="btn_sign.xml" xy="220,435"/>
+    <image id="n2_wvto" name="n2" src="wvto1" fileName="images/gold_icon.png" xy="250,212"/>
+    <text id="n3_wvto" name="lab_count" xy="279,371" pivot="0.5,0" size="60,34" fontSize="24" align="center" text="1000"/>
+    <component id="n4_r14v" name="btn_close" src="pcto1" fileName="btn_close.xml" pkg="cx5zh13d" xy="550,25"/>
+  </displayList>
+</component>

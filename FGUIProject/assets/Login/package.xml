@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cohy6d8o">
+  <resources>
+    <image id="pcto0" name="login_bg.png" path="/images/"/>
+    <image id="pcto1" name="login_btn.png" path="/images/"/>
+    <image id="pcto2" name="role.png" path="/images/"/>
+    <component id="pcto3" name="login.xml" path="/" exported="true"/>
+    <component id="pcto4" name="btn_login.xml" path="/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

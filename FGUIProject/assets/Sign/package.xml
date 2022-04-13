@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2gjcupnd">
+  <resources>
+    <image id="wvto0" name="confirm_btn.png" path="/images/"/>
+    <image id="wvto1" name="gold_icon.png" path="/images/"/>
+    <image id="wvto2" name="sign_bg.png" path="/images/"/>
+    <component id="wvto3" name="sign.xml" path="/" exported="true"/>
+    <component id="wvto4" name="btn_sign.xml" path="/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

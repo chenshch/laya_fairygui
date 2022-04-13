@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1007,624">
+  <displayList>
+    <image id="n0_pcto" name="n0" src="pcto0" fileName="images/charge_bg.png" xy="0,0"/>
+    <list id="n1_pcto" name="list_charge" xy="57,99" size="893,512" layout="flow_hz" overflow="scroll" colGap="25" lineItemCount="4" defaultItem="ui://cfw84oa2pctoa">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n2_pcto" name="btn_close" src="pcto1" fileName="btn_close.xml" pkg="cx5zh13d" xy="954,-4"/>
+  </displayList>
+</component>

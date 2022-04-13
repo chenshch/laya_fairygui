@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="626,36" pivot="0.5,0.5">
+  <displayList>
+    <image id="n2_wvto" name="n0" src="wvto4" fileName="images/img_tips_bg.png" xy="3,0"/>
+    <text id="n1_riio" name="n1" xy="0,0" pivot="0.5,0.5" size="626,36" fontSize="22" align="center" vAlign="middle" autoSize="ellipsis" text="购买成功"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" value="1"/>
+    <item time="0" type="Scale" tween="true" startValue="1,1" endValue="1.1,1.1" duration="4"/>
+    <item time="0" type="XY" tween="true" startValue="0,0" endValue="0,-58.776" duration="4"/>
+    <item time="4" type="Scale" tween="true" startValue="1.1,1.1" endValue="1,1" duration="5"/>
+    <item time="9" type="XY" tween="true" startValue="0,-58.776" endValue="0,-120" duration="5"/>
+    <item time="13" type="Alpha" tween="true" startValue="1" endValue="0" duration="5"/>
+  </transition>
+</component>

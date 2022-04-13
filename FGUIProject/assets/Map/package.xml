@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2hpj09q8">
+  <resources>
+    <image id="wvto0" name="back_btn.png" path="/images/"/>
+    <image id="wvto1" name="black_star.png" path="/images/" exported="true"/>
+    <image id="wvto2" name="chapter_bg.png" path="/images/"/>
+    <image id="wvto3" name="cloud.png" path="/images/"/>
+    <image id="wvto4" name="now_chapter.png" path="/images/"/>
+    <image id="wvto5" name="path.png" path="/images/"/>
+    <image id="wvto6" name="star.png" path="/images/" exported="true"/>
+    <component id="wvto7" name="map.xml" path="/" exported="true"/>
+    <component id="wvto8" name="map_item.xml" path="/"/>
+    <component id="wvto9" name="btn_back.xml" path="/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>
